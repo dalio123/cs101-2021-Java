@@ -4,7 +4,7 @@ package cowsay;
 import java.util.Scanner;
 
 public class Cowsay {
-    public static String a;
+  /*  public static String a;
     public static void MetodaGore(){
         Scanner sc = new Scanner(System.in);
         a = sc.nextLine();
@@ -45,7 +45,13 @@ public class Cowsay {
 
 
 
-
+*/
+    public static void main(String[] args) {
+    String a = "ac2a";
+    if (a != "aca") 
+        System.out.println("aca");
+        }
+    
 
         
         
@@ -56,5 +62,4 @@ public class Cowsay {
     
     
     
-    
-}
+ 
